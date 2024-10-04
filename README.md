@@ -20,7 +20,7 @@ This project aims to create a machine learning model to predict whether a patien
 7. **Deployment**: Deploy the model using a Flask application. This includes setting up a web server to allow doctors to interact with the model through a user-friendly interface.
 
 8. **Develop a Flask App**: 
-   - Build a Flask app that integrates the saved best model to enable predictions based on new patient data.
+   - Build a Flask application that integrates the saved best model to enable predictions based on new patient data.
    - Launch the local server app to facilitate user interaction and predictions in real-time.
 
 ## Key Features
@@ -47,6 +47,7 @@ This project aims to create a machine learning model to predict whether a patien
 
 4. Open your web browser and navigate to `http://localhost:5000` to access the application.
 
-
+5. Here you have your output screen.
+![alt text](image-1.png)
 ## Conclusion
 This project demonstrates the implementation of a machine learning model for heart disease prediction, with a focus on usability for healthcare professionals. The combination of data preprocessing, model training, and deployment using Flask ensures a practical solution for early diagnostics.

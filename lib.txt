@@ -11,7 +11,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 scipy
-tpot
+tpot 
 cloudpickle
 wheel
 joblib
